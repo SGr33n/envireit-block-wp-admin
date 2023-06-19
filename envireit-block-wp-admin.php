@@ -4,8 +4,8 @@
 Plugin Name: Envire.it Block Access to WP Admin
 Plugin URI: https://www.envire.it
 Description: Envire.it Block Access to WP Admin display a warning message if a user without 'edit_posts' permissions try to access to wp-admin.
-Author: Sergio De Falco
-Version: 1.0
+Author: Sergio de Falco
+Version: 1.1
 Author URI: https://www.envire.it/
 Text Domain: envireit-block-wp-admin
 Domain Path: /languages/
